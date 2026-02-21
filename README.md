@@ -1,4 +1,6 @@
-# 👋 Hello, I'm HE Xin (Michael Hertz) (Also new Japanese name Takumu)
+# 👋 Hello, I'm HE Xin (Michael Hertz) 
+
+## (Also new Japanese name Takumu)
 
 **Undergraduate Computer Science Student at BNBU | Team Leader | Creative Director** Focused on **Computer Vision**, **Data Mining**, and delivering user-centered experiences.
 
