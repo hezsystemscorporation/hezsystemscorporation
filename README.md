@@ -2,7 +2,7 @@
 
 ## (Also new Japanese name Takumu)
 
-**Undergraduate Computer Science Student at BNBU | Team Leader | Creative Director** Focused on **Computer Vision**, **Data Mining**, and delivering user-centered experiences.
+**Undergraduate Computer Science Student at BNBU | Project Manager | Team Leader | Creative Director** Focused on **Computer Vision**, **Data Mining**, and delivering user-centered experiences.
 
 ---
 
