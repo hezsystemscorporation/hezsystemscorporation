@@ -1,6 +1,4 @@
-# 👋 Hello, I'm HE Xin (Michael Hertz) 
-
-## (Also new Japanese name Takumu)
+## 👋 Hello, I'm HE Xin (Michael Hertz)  (Also new Japanese name Takumu)
 
 **Undergraduate Computer Science Student at BNBU | Project Manager | Team Leader | Creative Director** Focused on **Computer Vision**, **Data Mining**, and delivering user-centered experiences.
 
@@ -26,6 +24,8 @@
 ### 📬 Connect with Me
 * 📧 **Email:** [t330026052@mail.bnbu.edu.cn](mailto:t330026052@mail.bnbu.edu.cn) or [hexin2333hez@gmail.com](mailto:hexin2333hez@gmail.com)
 * 🌐 **Socials:** Bilibili @HEZ Channel | Rednote @HEZ Channel | YouTube @HEZ Channel | X @HEZ Channel
+
+---
 
 *"Dream it, Do it, Achieve it!"* is My Slogan since my primary school. 
 
