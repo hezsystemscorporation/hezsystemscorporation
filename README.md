@@ -12,7 +12,7 @@
 ### 📁 Featured Projects
 * **[pokemon-tools](https://github.com/hezsystemscorporation/pokemon-tools):** Sequence prediction model based on Transformers.
 * **[command-line-chatting-programe](https://github.com/hezsystemscorporation/command-line-chatting-programe):** C++ CLI chatting system with XOR encryption.
-* **Embodied AI:** Reconstructed a PushT task simulation using a DQN learning strategy.
+* **Embodied AI:** Reconstructed a PushT task simulation.
 * **Wireless Navigation:** Architecting a campus navigation system using signal detection and about to use TinyNeRF to leverage its full capability in different areas.
 * To view more projects, go to [My GitHub page](https://github.com/hezsystemscorporation/) or go to [My Portfolio](https://hezsystemscorporation.github.io/). The latest project is a cash counter, just experience it at [https://hezsystemscorporation.github.io/Projects-Demos/cash_count.html](https://hezsystemscorporation.github.io/Projects-Demos/cash_count.html). 
 
@@ -29,7 +29,7 @@
 
 *"Dream it, Do it, Achieve it!"* is My Slogan since my primary school. 
 
-![Michael Hertz's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=hezsystemscorporation&show_icons=true&hide_rank=true&theme=tokyoblue)
+![Michael Hertz's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=hezsystemscorporation&show_icons=true&hide_rank=true&hide=contribs,issues&theme=tokyonight)
 
 
 <!--
