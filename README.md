@@ -17,7 +17,7 @@
 * To view more projects, go to [My GitHub page](https://github.com/hezsystemscorporation/) or go to [My Portfolio](https://hezsystemscorporation.github.io/). The latest project is a cash counter, just experience it at [https://hezsystemscorporation.github.io/Projects-Demos/cash_count.html](https://hezsystemscorporation.github.io/Projects-Demos/cash_count.html). 
 
 ### 🎨 Creative & Community
-* **Founder of [HEZ Channel]:** Managing high-quality content across Bilibili, YouTube, and Rednote.
+* **Founder of [HEZ Channel]:** Managing high-quality content across Bilibili, YouTube, X and Rednote.
 * **Project Lead:** Directed award-winning short films and organized large-scale community screening events.
 * **Open Source:** Author of a [Tutorial for writing essays with LaTeX](https://github.com/hezsystemscorporation/Tutorial-to-writing-with-LaTeX).
 
