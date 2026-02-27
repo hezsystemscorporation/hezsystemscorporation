@@ -29,7 +29,7 @@
 
 *"Dream it, Do it, Achieve it!"* is My Slogan since my primary school. 
 
-![Michael Hertz's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=hezsystemscorporation&show_icons=true)
+![Michael Hertz's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=hezsystemscorporation&show_icons=true&hide_rank=true&theme=tokyoblue)
 
 
 <!--
