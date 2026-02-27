@@ -29,6 +29,8 @@
 
 *"Dream it, Do it, Achieve it!"* is My Slogan since my primary school. 
 
+![Michael Hertz's GitHub stats](https://github-readme-stats.vercel.app/api?username=hezsystemscorporation)
+
 
 <!--
 **hezsystemscorporation/hezsystemscorporation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
