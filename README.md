@@ -23,7 +23,7 @@
 
 ### 📬 Connect with Me
 * 📧 **Email:** [t330026052@mail.bnbu.edu.cn](mailto:t330026052@mail.bnbu.edu.cn) or [hexin2333hez@gmail.com](mailto:hexin2333hez@gmail.com)
-* 🌐 **Socials:** Bilibili @HEZ Channel | Rednote @HEZ Channel | YouTube @HEZ Channel | X @HEZ Channel
+* 🌐 **Socials:** Bilibili @[HEZ Channel](https://space.bilibili.com/475149892) | Rednote @[HEZ Channel](https://www.xiaohongshu.com/user/profile/64c2317d00000000140349f3) | YouTube @[HEZ Channel](https://www.youtube.com/@HEZ-Channel-2025) | X @[HEZ Channel](https://x.com/HEZ_Channel_25)
 
 ---
 
